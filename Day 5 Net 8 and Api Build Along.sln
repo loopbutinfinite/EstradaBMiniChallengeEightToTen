@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5 Net 8 and Api Build Along", "Day 5 Net 8 and Api Build Along.csproj", "{7D222F6F-1BD5-F420-FD0D-746E1282A126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D222F6F-1BD5-F420-FD0D-746E1282A126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D222F6F-1BD5-F420-FD0D-746E1282A126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D222F6F-1BD5-F420-FD0D-746E1282A126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D222F6F-1BD5-F420-FD0D-746E1282A126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E9E0A5-D7DC-4265-B754-2AD26364E5F8}
+	EndGlobalSection
+EndGlobal

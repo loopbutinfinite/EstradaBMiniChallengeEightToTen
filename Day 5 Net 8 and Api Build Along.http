@@ -1,0 +1,11 @@
+@Day_5_Net_8_and_Api_Build_Along_HostAddress = http://localhost:5117
+
+GET {{Day_5_Net_8_and_Api_Build_Along_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Day_5_Net_8_and_Api_Build_Along_HostAddress}}/Magic8Ball/
+Accept: application/json
+
+###

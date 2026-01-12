@@ -1,0 +1,68 @@
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/appsettings.Development.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/appsettings.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.staticwebassets.endpoints.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.deps.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.runtimeconfig.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.pdb
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.csproj.AssemblyReference.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.AssemblyInfoInputs.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.AssemblyInfo.cs
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.csproj.CoreCompileInputs.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/scopedcss/bundle/Day 5 Net 8 and Api Build Along.styles.css
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/staticwebassets.build.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/staticwebassets.development.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Ne.7FB6AA63.Up2Date
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/refint/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.pdb
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.genruntimeconfig.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Week 1/Day 5 Net 8 and Api Build Along/obj/Debug/net9.0/ref/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/appsettings.Development.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/appsettings.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.staticwebassets.endpoints.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.deps.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.runtimeconfig.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Day 5 Net 8 and Api Build Along.pdb
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.csproj.AssemblyReference.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.AssemblyInfoInputs.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.AssemblyInfo.cs
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.csproj.CoreCompileInputs.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.MvcApplicationPartsAssemblyInfo.cs
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/scopedcss/bundle/Day 5 Net 8 and Api Build Along.styles.css
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/staticwebassets.build.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/staticwebassets.development.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Ne.7FB6AA63.Up2Date
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/refint/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.pdb
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.genruntimeconfig.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/ref/Day 5 Net 8 and Api Build Along.dll
