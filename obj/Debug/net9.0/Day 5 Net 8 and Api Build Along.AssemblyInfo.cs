@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 5 Net 8 and Api Build Along")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1273e4ee788ba067e91d902841b8855b59b6d553")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a330ffef5517c0a95dde36b312aa0b2816ed4c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 5 Net 8 and Api Build Along")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 5 Net 8 and Api Build Along")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

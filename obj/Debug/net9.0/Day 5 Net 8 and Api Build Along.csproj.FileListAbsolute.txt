@@ -66,3 +66,4 @@
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.pdb
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.genruntimeconfig.cache
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/ref/Day 5 Net 8 and Api Build Along.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeEightToTen/obj/Debug/net9.0/Day 5 Net 8 and Api Build Along.sourcelink.json
